@@ -1,0 +1,10 @@
+# Course-provided data (not redistributable)
+FIT1043-MusicGenre-Dataset.csv
+FIT1043-MusicGenre-Submission.csv
+# Downloaded public data
+winequality-red.csv
+# Outputs
+music_genre_predictions.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
